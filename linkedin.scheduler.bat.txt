@@ -1,0 +1,3 @@
+"C:\Program Files\Python38\python.exe" "C:\Users\luc57.DESKTOP-NB5DC80\Side Projects\Web Scraping\LinkedIn Jobs PyScraper.py"
+pause
+
